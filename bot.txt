@@ -1,0 +1,7 @@
+Left: color sensor 1, Motor B
+Right: color sensor 4, Motor C
+gyro : port 2
+Front medium motor : A 
+Back medium motor : D
+tyres: what Athrav & Arush have
+Ultrasonic sensor : port 3 ??
